@@ -13,7 +13,6 @@ let conditions = [
     [2, 4, 6]
 ];
 
-
 const ticTacToe = (element, index) => {
     
        
