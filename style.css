@@ -13,7 +13,7 @@ body {
   text-align: center;
   color:white;
   font-size: 50px;
-  text-shadow:azure;
+  text-shadow:2 px 2 px 2px azure;
 }
 .box{
   display:flex;
